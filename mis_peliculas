@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <head>
+            <title>
+             Mis 3 peliculas favoritas 
+            </title>
+        </head>
+        
+        <h1> Mis 3 peliculas favoritas </h1>
+        <ol>
+            <li>
+                <h2>Interstellar</h2>
+                <p> Interstellar me gusta porque es una de las peliculas que mas impactado me ha dejado, y mas que nada por la historia que cuenta y los efectos visuales que tiene, siempre la recomiendo.
+                </p> 
+                            
+                <img src="https://play-lh.googleusercontent.com/Kf_1fCIuuy2ufsEBKwv08e9AvzwrSyCItG6Nsk4C2tGurknKjOS0H8k9KldDPC6hfzc" alt="Interstellar" width="400">
+                <p>
+                    <a href="https://youtu.be/LYS2O1nl9iM" target="_blank">Trailer</a>
+                <p>
+            </li>
+
+            <li>
+                <h2>Spider-Man</h2>
+                <p> Esta pelicula fue una de las primeras que vi de pequeño y me quede muy apegado a lo que es o significa Spider-Man, es por eso que la pongo en mi top desde que tenia 3-4 años ha sido y sigue siendo mi superheroe favorito.
+                </p>
+                <img src="https://play-lh.googleusercontent.com/PQW6qebXTYwtpgYCPsGu2qt7YivGjDrEPH_yfkgNpPJUXcyoJfu-ZAE3oRGdKzc3TAqV" alt="Spider-Man" width="400">
+                <p>
+                    <a href="https://youtu.be/t06RUxPbp_c"target="_blank">Trailer</a>
+                <p>
+            </li>
+
+            <li>
+                <h2>Tenet</h2>
+                <p> Esta pelicula es una de las ultimas que he visto la pongo en mi top por la genialidad de la pelicula porque nunca sabes que esta pasando en verdad, aunque a muchas personas no les gusto eso, a mi si ademas que los efectos y escenas de acción de la pelicula son otro nivel.
+                </p>
+
+                <img src="https://artofthemovies.co.uk/cdn/shop/products/tenet_teaser_EB07367_B_2_framed1-722829_1200x1200.jpg?v=1611688388" alt="Tenet" width="400">
+
+                <p>
+                    <a href="https://youtu.be/CdRL6o8z-2A"target="_blank">Trailer</a>
+                <p>
+
+            </li>
+        </ol>
+    </body>
+</html>
